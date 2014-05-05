@@ -1,4 +1,4 @@
 docs
 ====
 
-This README is created on initilization. 
+This README is for initilization. 
