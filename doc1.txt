@@ -3,5 +3,3 @@ How about this?
 Probably not this.
 
 Now making change online.
-
-Here I made a change in branch 1.
