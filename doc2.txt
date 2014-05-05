@@ -3,5 +3,3 @@ This is another new file.
 making change locally.
 
 again, making change locally.
-
-Here I made a change, hopefully in branch 1.
